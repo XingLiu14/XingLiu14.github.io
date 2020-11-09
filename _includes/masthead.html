@@ -10,17 +10,18 @@
   {{ user.bio }}
 </p>
 
-{% if site.resume %}
-  <div class="{{ metadata_styles }}">
-    {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:file %}
-    <a href="{{ site.resume }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-      Resumé
-    </a>
-  </div>
-{% endif %}
-
 {% if include.metadata %}
   <div class="f4 mb-6">
+
+    {% if site.resume %}
+      <div class="{{ metadata_styles }}">
+        {% octicon file height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:file %}
+        <a href="{{ site.resume }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          Resumé
+        </a>
+      </div>
+    {% endif %}
+
     {% if user.name %}
       <div class="{{ metadata_styles }}">
         {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
