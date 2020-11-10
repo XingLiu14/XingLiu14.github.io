@@ -18,6 +18,11 @@ defaults:
 
 resume: https://drive.google.com/file/d/1R4R9SL3yB67FTsrUXn4WngB9MQdhDnon/view?usp=sharing
 
+about:
+  - name: D
+    position: C
+    period: O
+
 projects:
   sort_by: pushed
   # sort_by options:
