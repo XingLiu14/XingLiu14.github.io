@@ -1,5 +1,4 @@
 layout: sidebar
-style: dark
 
 plugins:
   - jekyll-octicons
@@ -18,7 +17,6 @@ defaults:
 
 resume: https://github.com/XingLiu14/XingLiu14.github.io/blob/master/resume/Xing_Liu_Resume.pdf
 
-about: dummy
 
 projects:
   sort_by: pushed
@@ -31,6 +29,8 @@ projects:
     forks: true
     projects:
     # - repo-name
+
+repository: XingLiu14/XingLiu14.github.io
 
 social_media:
   # behance: your_username
