@@ -15,7 +15,7 @@ Fate always changes inadvertently.
 <br/><br/>
 
 #### "The Case of the Speluncean Explorers" by Lon L. Fuller
-Law is like a complicated classifier, but without code.
+Law is like a giant classifier, and people built it without code.
 <br/><br/>
 
 #### "Why We Buy: The Science of Shopping" by Paco Underhill
