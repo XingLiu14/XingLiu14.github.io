@@ -30,7 +30,7 @@ I guess it works, now I can read everyday.
 Finally cleared that reading debt, I prefer the microeconomics part.
 <br/><br/>
 
-#### "The Moon and Sixpence" William Somerset Maugham
+#### "The Moon and Sixpence" by William Somerset Maugham
 He fulfilled his dream, but he is a selfish man.
 <br/><br/>
 
