@@ -34,6 +34,10 @@ Finally cleared that reading debt, I prefer the microeconomics part.
 He fulfilled his dream, but he is a selfish man.
 <br/><br/>
 
+#### "No Longer Human" by Osamu Dazai
+The coward is afraid of happiness, and he gets hurt when he touches cotton.
+<br/><br/>
+
 #### "Clean Code" by Robert Cecil Martin
 (ongoing)
 <br/><br/>
