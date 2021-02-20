@@ -15,7 +15,7 @@ Let's do quick math to see how transaction fees can eat your profits: you deposi
 
 | Exchange     | Transaction fees | Original Funds | Original value in Bitcoin | Final value in Bitcoin | Final funds | Profits | Percentages |
 | ------------ |:----------------:|:--------------:|:-------------------------:|:----------------------:|:-----------:|:-------:|:-----------:|
-| No fee       | 0                | $10,000        | $10,000                   | $15,000                | $15,000     | $5,000  | 100%        |
+| Benchmark    | 0                | $10,000        | $10,000                   | $15,000                | $15,000     | $5,000  | 100%        |
 | Coinbase     | 1.49%            | $10,000        | $9,851                    | $14,777                | $14,557     | $4,557  | 91%         |
 | Coinbase Pro | 0.5%             | $10,000        | $9,950                    | $14,925                | $14,850     | $4,850  | 97%         |
 | Binance.US   | 0.075%           | $10,000        | $9,993                    | $14,990                | $14,980     | $4,980  | 99.6%       |
