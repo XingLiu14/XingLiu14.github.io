@@ -27,7 +27,7 @@ Lower transaction fees can protect most your profits for even 1 transaction, if 
 
 - [Create a Coinbase/Coinbase Pro account](https://www.coinbase.com/join/liu_p8), link you bank account and deposit USD.
 - Buy USDC (USD Coin) with USD with 0 fee, 1 USDC almost always worth 1 USD.
-- Create a Binance.US account, go to *Wallet* -> *Deposit*, find and copy your USDC wallet address.
+- [Create a Binance.US account](https://accounts.binance.us/en/register?ref=53283116), go to *Wallet* -> *Deposit*, find and copy your USDC wallet address.
 - Go back to Coinbase, go to *Send/Receive*, paste your USDC wallet address from Binance.US and send all your USDC, **it will cost you few USDC as network fee**, this fee is paid to Ethereum (underlying infrastructure of USDC) and is irrelevant with how much USDC you sent, so you should send all your USDC at once.
 - Once you received USDC in your Binance.US account, convert USDC to BUSD (Binance USD) with 0 fee, 1 USDC almost always worth 1 BUSD.
 - Buy few BNB with BUSD as your transaction fees.
