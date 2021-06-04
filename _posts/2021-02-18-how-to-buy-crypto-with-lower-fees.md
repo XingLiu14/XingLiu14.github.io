@@ -5,7 +5,7 @@ published: true
 
 Hi there, Bitcoin hits 56k today and I'm here to introduce a way to buy Bitcoin or other major cryptos with relatively lower fees. I am just a newbie as well, you are welcome to tell me an even better approach to reduce the annoying fees.
 
-I wanna mention that I do not recommend use Robinhood to trade crypto because you won't even get a wallet for the crypto you own, and more importantly, I'm boycotting Robinhood.
+I wanna mention that I do not recommend use Robinhood to trade crypto because you won't even get a wallet for the crypto you own.
 
 Years ago, I used [Coinbase](https://www.coinbase.com/) to buy Bitcoin, apparently, it's the most convenient app for most people to buy crypto. But they also charge minimum of 1.49% fees for any buy/sell transactions, if your transaction amount is lower than $200, the expense ratio is even higher.
 
